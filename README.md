@@ -8,12 +8,12 @@
   <img src="https://profile-counter.glitch.me/iwinardhyas/count.svg"/>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iwinardhyas&theme=blue-green&show_icons=true" align="left" width="48%"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=iwinardhyas&theme=blue-green&show_icons=true" align="center" width="48%"/>
 </p>
 
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwinardhyas&layout=compact" 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwinardhyas&layout=compact" 
 width="47%"/>
 </p>
 
