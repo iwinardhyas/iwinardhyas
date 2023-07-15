@@ -32,10 +32,11 @@ width="47%"/>
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
 
+<div/>
+
 [Linkedin]: https://www.linkedin.com/in/erwinardias/
 [Instagram]: https://www.instagram.com/er.ardias/
 [Facebook]: https://www.facebook.com/ardhy.ardias/
-<div/>
 
 <br />
 
