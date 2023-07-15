@@ -24,15 +24,12 @@ width="47%"/>
 
 <br/>
 
-<p
 ### Connect with me:
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
-
-</p>
 
 [Linkedin]: https://www.linkedin.com/in/erwinardias/
 [Instagram]: https://www.instagram.com/er.ardias/
