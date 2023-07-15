@@ -13,7 +13,7 @@
 
 <br/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwinardhyas&layout=compact" align="left" 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwinardhyas&layout=compact" 
 width="47%"/>
 </p>
 
