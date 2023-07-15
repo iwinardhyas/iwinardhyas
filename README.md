@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center"> Hi there, I'm Erwin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2/>
 
 <a href=#><img src="contributions.svg"></a>
 
@@ -6,13 +7,14 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/iwinardhyas/count.svg"/>
 </p>
-<h2 align="center"> Hi there, I'm Erwin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
-<h2/>
-<br />
+
+<p
 <img src="https://github-readme-stats.vercel.app/api?username=iwinardhyas&theme=blue-green&show_icons=true" align="left" width="48%"/>
-<br />
+</p>
+<p
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwinardhyas&layout=compact" align="left" 
 width="47%"/>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rasif-Taghizada&" alt="iwinardhyas" /></p>
 
